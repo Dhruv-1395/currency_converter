@@ -29,7 +29,7 @@ const Converter = () => {
     
     return (
         <div className="min-h-screen flex items-center justify-center bg-slate-900 p-4">
-            <div className="w-full max-w-md p-6 space-y-6 bg-slate-50 rounded-lg">
+            <div className="w-full max-w-lg p-6 space-y-6 bg-slate-50 rounded-lg">
                 <h1 className="text-2xl font-semibold text-center">
                     Currency Converter
                 </h1>
